@@ -50,10 +50,10 @@ I am an experienced web developer specializing in creating dynamic, animated, an
 
 ---
 
-### 🤝 Let’s bring ideas to life — connect and let’s start something awesome.
-
----
-
 ### 📊 My GitHub Stats
 
 ![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqib7865-dev&show_icons=true&theme=dark&hide=contribs,prs)
+
+---
+
+### 🤝 Let’s bring ideas to life — connect and let’s start something awesome.
