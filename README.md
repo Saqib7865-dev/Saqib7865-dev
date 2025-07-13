@@ -56,4 +56,4 @@ I am an experienced web developer specializing in creating dynamic, animated, an
 
 ### 📊 My GitHub Stats
 
-![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide=contribs,prs)
+![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqib7865-dev&show_icons=true&theme=dark&hide=contribs,prs)
