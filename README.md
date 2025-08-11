@@ -14,7 +14,7 @@ I am an experienced web developer specializing in creating dynamic, animated, an
 - 📱 Landing Page Development (Responsive & Dark Mode)  
 - 💻 Complete Frontend Website Development  
 
-🎓 Bachelor’s in Computer Science from **[Your University Name]** (2021–2025).
+🎓 Bachelor’s in Computer Science from **Lahore Garrison University** (2021–2025).
 
 ---
 
